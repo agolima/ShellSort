@@ -9,6 +9,5 @@ public class Principal {
 		for (int i = 0; i < arrayOrdenado.length; i++) {
 			System.out.println(arrayOrdenado[i]);
 		}
-
 	}
 }
